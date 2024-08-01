@@ -1,0 +1,7 @@
+torch==2.3.0 --index-url https://download.pytorch.org/whl/cu121
+transformers
+tkinter
+PIL
+threading
+pickle
+nltk
